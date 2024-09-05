@@ -294,7 +294,7 @@ ul.nostyle i {
 #hero-banner {
     overflow: hidden;
     height: 700px;
-    background: url('../images/banner/banner.jpg');
+    background: url('https://media.licdn.com/dms/image/v2/D4E16AQFLmKfRAaWtkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724924426833?e=1730937600&v=beta&t=yqoEynQ5yn_2-K7ffHn3s_Bws4lgBfCglDfEjt3HAjs');
     background-size: cover;
     color: #fff;
 }
@@ -461,7 +461,7 @@ ul.nostyle i {
 #portfolio {
     padding: 100px 0;
     background: #FFFFFF;
-    background: url('../images/img4.jpg');
+    background: url('img4.jpg');
     background-size: cover;
 }
 
@@ -639,7 +639,7 @@ ul.nostyle i {
     background-size: cover;
     padding: 100px 0;
     color: #fff;
-    background: url('../images/img3.jpg');
+    background: url('img3.jpg');
     background-size: cover;
 }
 
@@ -671,7 +671,7 @@ ul.nostyle i {
 #about {
     padding: 100px 0;
     background: #07080A;
-    background: url('../images/img2.jpg');
+    background: url('img2.jpg');
     background-size: cover;
 }
 
